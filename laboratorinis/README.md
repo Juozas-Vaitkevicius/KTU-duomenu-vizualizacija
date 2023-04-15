@@ -11,7 +11,7 @@ Atsakymas:
 
 ![histograma](img/1_užduotis.png)
 
-Išvados: Nagrinėjamose įmonėse vidutinis atlyginimas yra 3003 eurai.
+Išvados: Kompiuterių programavimo veikla užsiimančiose įmonėse vidutinis atlyginimas yra 3003 eurai.
 
 ### 2. Užduotis
 
