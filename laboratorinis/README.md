@@ -28,7 +28,7 @@ Atsakymas:
 
 ![apdraustieji](img/užduotis3.png)
 
-Išvados: Pagal apdraustų darbuotojų skaičių šiuose įmonėse,  MELSOFT LT UAB ju turi daugiau negu kitos įmonės kartu sudėjus.
+Išvados: Pagal apdraustų darbuotojų skaičių šiuose įmonėse,  MELSOFT LT UAB ju turi daugiausiai.
 
 
 ### 4. Užduotis
