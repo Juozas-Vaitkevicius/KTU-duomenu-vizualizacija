@@ -35,4 +35,4 @@ Išvados: Pagal apdraustų darbuotojų skaičių šiuose įmonėse,  MELSOFT LT 
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shiny_example.png)
+![shiny app](img/Shiny.png)
