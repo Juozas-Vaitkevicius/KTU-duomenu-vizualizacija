@@ -19,7 +19,7 @@ Atsakymas:
 
 ![atlyginimai](img/užduotis2.png)
 
-Išvados: Top 5 įmonės pagal vidutinį darbo užmokestį yra: UAB FATMAP LT, 	MELSOFT LT UAB, UBER LITHUANIA SOFTWARE AND DEVELOPMENT UAB, UAB "S2P", CHRONOSPHERE LITHUANIA UAB.  Visos įmonės turėjo gana pastovius vidutinius darbo užmokesčius, išskyrus pasikeitimus nuo vasario iki balandžio įmonėse CHRONOSPHERE LITHUANIA UAB, UBER LITHUANIA SOFTWARE AND DEVELOPMENT UAB, MELSOFT LT UAB , bei metų gale UAB "S2P", UAB FATMAP LT.
+Išvados: Top 5 įmonės pagal vidutinį darbo užmokestį yra: UAB FATMAP LT, 	MELSOFT LT UAB, UBER LITHUANIA SOFTWARE AND DEVELOPMENT UAB, UAB "S2P", CHRONOSPHERE LITHUANIA UAB.  Visos įmonės turėjo gana pastovius vidutinius darbo užmokesčius, išskyrus pasikeitimus: nuo vasario iki balandžio įmonėse CHRONOSPHERE LITHUANIA UAB, UBER LITHUANIA SOFTWARE AND DEVELOPMENT UAB, MELSOFT LT UAB , bei metų gale įmonėse UAB "S2P", UAB FATMAP LT.
 
 
 ### 3. Užduotis
