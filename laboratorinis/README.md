@@ -9,7 +9,7 @@
 
 Atsakymas:
 
-![histograma](img/1užduotis.png)
+![histograma](img/užduotis1.png)
 
 Išvados: Kompiuterių programavimo veikla užsiimančiose įmonėse vidutinis atlyginimas yra 3003 eurai.
 
@@ -17,7 +17,7 @@ Išvados: Kompiuterių programavimo veikla užsiimančiose įmonėse vidutinis a
 
 Atsakymas:
 
-![atlyginimai](img/2užduotis.png)
+![atlyginimai](img/užduotis2.png)
 
 Išvados: Top 5 įmonės pagal vidutinį darbo užmokestį yra: UAB FATMAP LT, 	MELSOFT LT UAB, UBER LITHUANIA SOFTWARE AND DEVELOPMENT UAB, UAB "S2P", CHRONOSPHERE LITHUANIA UAB.  Visos įmonės turėjo gana pastovius vidutinius darbo užmokesčius, išskyrus pasikeitimus nuo vasario iki balandžio įmonėse CHRONOSPHERE LITHUANIA UAB, UBER LITHUANIA SOFTWARE AND DEVELOPMENT UAB, MELSOFT LT UAB , bei metų gale UAB "S2P", UAB FATMAP LT.
 
@@ -26,7 +26,7 @@ Išvados: Top 5 įmonės pagal vidutinį darbo užmokestį yra: UAB FATMAP LT, 	
 
 Atsakymas:
 
-![apdraustieji](img/3užduotis.png)
+![apdraustieji](img/užduotis3.png)
 
 Išvados: Pagal apdraustų darbuotojų skaičių šiuose įmonėse,  MELSOFT LT UAB ju turi daugiau negu kitos įmonės kartu sudėjus.
 
