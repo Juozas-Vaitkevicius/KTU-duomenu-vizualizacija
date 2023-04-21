@@ -40,7 +40,7 @@ Top5Duomenys %>%
 #išvedame grafiką
 Top5Duomenys %>%
   group_by(name) %>%
-  summarise(Counts = sum(numInsured)) %>%
+  summarise(Counts = max(numInsured)) %>%
   mutate(name = fct_reorder(name, desc(Counts))) %>%
   ggplot(aes(x = name, y = Counts)) +
   geom_col(aes(fill = name)) +
