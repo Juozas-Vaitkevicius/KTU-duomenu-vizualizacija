@@ -19,7 +19,7 @@ Atsakymas:
 
 ![atlyginimai](img/užduotis2.png)
 
-Išvados: Top 5 įmonės pagal vidutinį darbo užmokestį yra: UAB FATMAP LT, 	MELSOFT LT UAB, UBER LITHUANIA SOFTWARE AND DEVELOPMENT UAB, UAB "S2P", CHRONOSPHERE LITHUANIA UAB.  Visos įmonės turėjo gana pastovius vidutinius darbo užmokesčius, išskyrus pasikeitimus: nuo vasario iki balandžio įmonėse CHRONOSPHERE LITHUANIA UAB, UBER LITHUANIA SOFTWARE AND DEVELOPMENT UAB, MELSOFT LT UAB , bei metų gale įmonėse UAB "S2P", UAB FATMAP LT.
+Išvados: Top 5 įmonės pagal vidutinį darbo užmokestį yra: UAB FATMAP LT, 	MELSOFT LT UAB, UBER LITHUANIA SOFTWARE AND DEVELOPMENT UAB, UAB "S2P", CHRONOSPHERE LITHUANIA UAB.  Visos įmonės turėjo gana pastovius vidutinius darbo užmokesčius, išskyrus pasikeitimus: nuo vasario iki balandžio įmonėse CHRONOSPHERE LITHUANIA UAB, UBER LITHUANIA SOFTWARE AND DEVELOPMENT UAB, MELSOFT LT UAB , bei metų gale įmonėse UAB "S2P", UAB FATMAP LT, MELSOFT LT UAB.
 
 
 ### 3. Užduotis
@@ -28,7 +28,7 @@ Atsakymas:
 
 ![apdraustieji](img/užduotis3.png)
 
-Išvados: Pagal apdraustų darbuotojų skaičių šiuose įmonėse,  MELSOFT LT UAB ju turi daugiausiai.
+Išvados: Nagrinėjant apdraustų darbuotojų skaičių šiuose įmonėse,  MELSOFT LT UAB išsiskiria jų kiekiu, piko metu turėdama 317 apdraustų darbuotojų.
 
 
 ### 4. Užduotis
